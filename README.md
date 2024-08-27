@@ -5,17 +5,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
   - [Links](#links)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
 ## Overview
-
-### Screenshot
-
-![images/Screenshot 2024-08-27 at 14-06-51 Frontend Mentor QR code component.png]
 
 ### Links
 - Live Site URL:[https://matheusap93.github.io/QrCode-Project/]
